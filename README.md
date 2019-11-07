@@ -7,7 +7,7 @@
   </head>
   <body>
     <h1>Medical privacy for general practitioners</h1>
-    <img class="bilde1" src="image/bilde1.jpg" alt="fastlege">
+    <img class="bilde1" src="bilde1.jpg" alt="fastlege">
     <p class="tekst1">This is a course about medical privacy for general practitioners.</p>
     <p class="tekst2">Click on the links below to watch the videos and learn more. </p>
     <h2>What is medical privacy?</h2>
