@@ -13,7 +13,7 @@
     <h2>What is medical privacy?</h2>
     <a href="https://www.youtube.com/watch?v=cMPaaaYLQG4">Overview</a>
     <h2>What do you need to protect, and why?</h2>
-    <a class="video2"><href="https://www.youtube.com/watch?v=7ZgQ2yapcgw">Personal information</a>
+    class="video2"<a href="https://www.youtube.com/watch?v=7ZgQ2yapcgw">Personal information</a>
     <h2>How do you stay protected?</h2>
     <a class="video3"href="https://www.youtube.com/watch?v=LNtuiOL6gnI">Operating systems</a>
     <br>
