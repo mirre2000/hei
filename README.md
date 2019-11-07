@@ -11,7 +11,7 @@
     <p class="tekst1">This is a course about medical privacy for general practitioners.</p>
     <p class="tekst2">Click on the links below to watch the videos and learn more. </p>
     <h2>What is medical privacy?</h2>
-    <a class="video1"href="https://www.youtube.com/watch?v=cMPaaaYLQG4">Overview</a>
+https://www.youtube.com/watch?v=cMPaaaYLQG4
     <h2>What do you need to protect, and why?</h2>
     <a class="video2"href="https://www.youtube.com/watch?v=7ZgQ2yapcgw">Personal information</a>
     <h2>How do you stay protected?</h2>
