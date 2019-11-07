@@ -2,8 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Medical privacy for general practitioners</title>
-    <link rel="stylesheet" href="stil.css">
+
   </head>
   <body>
     <h1>Medical privacy for general practitioners</h1>
