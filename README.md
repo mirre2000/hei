@@ -12,6 +12,7 @@
     <p class="tekst2">Click on the links below to watch the videos and learn more. </p>
     <h2>What is medical privacy?</h2>
     <p class="tekst3">Overview: https://www.youtube.com/watch?v=cMPaaaYLQG4</p>
+    <a href="https://www.youtube.com/watch?v=cMPaaaYLQG4">link text</a>
     <h2>What do you need to protect, and why?</h2>
     <a class="video2"href="https://www.youtube.com/watch?v=7ZgQ2yapcgw">Personal information</a>
     <h2>How do you stay protected?</h2>
